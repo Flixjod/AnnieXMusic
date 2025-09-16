@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", 1008848605))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "FLiX_LU")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "FLiX_LY")
 BOT_USERNAME = getenv("BOT_USERNAME", "SiestaXVibes_bot")
 BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "non")
