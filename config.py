@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 OWNER_ID = int(getenv("OWNER_ID", 1008848605))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "FLiX_LY")
 BOT_USERNAME = getenv("BOT_USERNAME", "SiestaXVibes_bot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
+BOT_NAME = getenv("BOT_NAME", "˹Sɪᴇsᴛᴀ ✘ Mᴜsɪᴄ˼")
 ASSUSERNAME = getenv("ASSUSERNAME", "non")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
 
