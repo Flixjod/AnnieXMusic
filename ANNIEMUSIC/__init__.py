@@ -1,4 +1,4 @@
-from ANNIEMUSIC.core.bot import JARVIS
+from ANNIEMUSIC.core.bot import FLiX
 from ANNIEMUSIC.core.dir import dirr
 from ANNIEMUSIC.core.git import git
 from ANNIEMUSIC.core.userbot import Userbot
