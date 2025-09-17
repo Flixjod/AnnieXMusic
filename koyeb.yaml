@@ -1,4 +1,4 @@
-name: AnnieXMusic
+name: SiestaXMusic
 type: app
 docker:
   file: Dockerfile
